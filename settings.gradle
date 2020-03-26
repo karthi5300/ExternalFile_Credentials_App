@@ -1,0 +1,2 @@
+rootProject.name='ExternalFile Credentials App'
+include ':app'
